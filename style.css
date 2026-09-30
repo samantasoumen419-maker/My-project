@@ -58,11 +58,11 @@ body {
         }
 
         footer p {
-            color: white;
+            color: darkslategray;
             font-size: 15px;
         }
 footer a {
-       color: white;
+       color: darkslategray;
 }
 
         body {
@@ -95,6 +95,8 @@ input {
 }
 
 button {
+    background-color: darkseagreen;
+    color: darkslategray;
     width: 100%;
     padding: 10px;
     margin-top: 15px;
